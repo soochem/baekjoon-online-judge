@@ -1,1 +1,13 @@
-/bin/
+# env
+bin/
+.idea/
+.settings/
+BOJ.iml
+
+# eclipse
+.classpath
+.project
+
+# working dir
+src/coding_test/
+src/kakao_sample/
