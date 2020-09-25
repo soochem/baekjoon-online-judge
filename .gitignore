@@ -9,5 +9,5 @@ BOJ.iml
 .project
 
 # working dir
-src/coding_test/
-src/kakao_sample/
+java/coding_test/
+java/kakao_sample/
